@@ -76,12 +76,12 @@ API_KEY = "<your-ibm-api-key>"
 #IBMCloud #MachineLearning #PredictiveMaintenance #Streamlit #AutoAI #CloudDeployment #MCAProject
 
 📓 Jupyter Notebook: Maintenance_Failure_Model.ipynb
-This notebook was generated using IBM AutoAI. It includes:
 
-Data preprocessing
+This notebook was generated using IBM AutoAI. 
+It includes:
 
-Feature engineering
-
-Model training and evaluation
+- Data preprocessing
+- Feature engineering
+- Model training and evaluation
 
 📌 Note: This notebook is not required to run the Streamlit app. It's included for transparency and further exploration.
